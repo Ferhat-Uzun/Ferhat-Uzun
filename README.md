@@ -3,7 +3,7 @@
 </div>  
   
 
-- **🌱 I’m currently learning Java Spring Framework**  
+- **🌱 I’m currently learning Java Spring Framework and Vue.js**  
   
 
 - **🧑‍🎓I'm a student at Ahi Evran University**  
