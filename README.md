@@ -1,15 +1,10 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="" width="400" />
 </div>  
-  
 
-- **🌱 I’m currently learning Java Spring Framework and Vue.js**  
-  
-
+- **🔭 I’m currently working on Java based backend application**
+- **🌱 I’m currently learning Java and Vue.js**  
 - **🧑‍🎓I'm a student at Ahi Evran University**  
-  
-
-- **❓ Ask me about Java and SQL**  
   
 
 <br/>  
@@ -59,13 +54,6 @@
 
 <br/>  
 
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Ferhat-Uzun&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/Ferhat-Uzun" target="_blank">
@@ -80,9 +68,6 @@
 <a href="https://stackoverflow.com/users/16740641/ferhat" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/ferhat_uzun12" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>  
 </div>  
   
 
